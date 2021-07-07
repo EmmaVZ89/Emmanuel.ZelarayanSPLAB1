@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1625629998 source:c:\users\note\desktop\proyectos\utn\parcial 2 laboratorio\emmanuel.zelarayansplab1\parcial2labo1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625617705 c:\users\note\desktop\proyectos\utn\parcial 2 laboratorio\emmanuel.zelarayansplab1\parcial2labo1\linkedlist.h
+
+1625662976 source:c:\users\note\desktop\proyectos\utn\parcial 2 laboratorio\emmanuel.zelarayansplab1\parcial2labo1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"LinkedList.h"
+	"pais.h"
+	"parser.h"
+
+1622031508 c:\users\note\desktop\proyectos\utn\parcial 2 laboratorio\emmanuel.zelarayansplab1\parcial2labo1\utn.h
+
+1625665621 c:\users\note\desktop\proyectos\utn\parcial 2 laboratorio\emmanuel.zelarayansplab1\parcial2labo1\pais.h
+
+1625665995 c:\users\note\desktop\proyectos\utn\parcial 2 laboratorio\emmanuel.zelarayansplab1\parcial2labo1\parser.h
+	"LinkedList.h"
+
+1625667685 source:c:\users\note\desktop\proyectos\utn\parcial 2 laboratorio\emmanuel.zelarayansplab1\parcial2labo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"utn.h"
+	"LinkedList.h"
+	"controller.h"
+	"informes.h"
+
+1625665917 c:\users\note\desktop\proyectos\utn\parcial 2 laboratorio\emmanuel.zelarayansplab1\parcial2labo1\controller.h
+	"pais.h"
+
+1625660877 source:c:\users\note\desktop\proyectos\utn\parcial 2 laboratorio\emmanuel.zelarayansplab1\parcial2labo1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"pais.h"
+
+1622031321 source:c:\users\note\desktop\proyectos\utn\parcial 2 laboratorio\emmanuel.zelarayansplab1\parcial2labo1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1625663239 source:c:\users\note\desktop\proyectos\utn\parcial 2 laboratorio\emmanuel.zelarayansplab1\parcial2labo1\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pais.h"
+	"utn.h"
+	<time.h>
+	"LinkedList.h"
+
+1625666073 c:\users\note\desktop\proyectos\utn\parcial 2 laboratorio\emmanuel.zelarayansplab1\parcial2labo1\informes.h
+	"LinkedList.h"
+
+1625664069 source:c:\users\note\desktop\proyectos\utn\parcial 2 laboratorio\emmanuel.zelarayansplab1\parcial2labo1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+	"pais.h"
+
